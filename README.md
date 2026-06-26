@@ -27,7 +27,7 @@
 
 📫 Reach me at
 
-**your_email@gmail.com**
+**dakshsharmak2211@gmail.com**
 
 ---
 
