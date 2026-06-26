@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋 I'm Daksh Sharma
 
-<!--
-**221104daksh/221104daksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & ML Student
 
-Here are some ideas to get you started:
+💻 Python Developer | Data Analyst | ML Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Machine Learning
+- Deep Learning
+- Selenium
+- Playwright
+- Power BI
+
+📫 Email:
+your_email@gmail.com
