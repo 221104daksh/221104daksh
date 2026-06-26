@@ -33,10 +33,10 @@
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dakshsharma2211/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:dakshsharmak2211@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daksh%20Sharma-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dakshsharma2211/)
 
+[![Gmail](https://img.shields.io/badge/Gmail-dakshsharmak2211%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshsharmak2211@gmail.com)
 ---
 
 # 💻 Tech Stack
@@ -48,6 +48,8 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
 
