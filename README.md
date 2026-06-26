@@ -33,9 +33,9 @@
 
 # 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dakshsharma2211/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:dakshsharmak2211@gmail.com)
 
 ---
 
@@ -127,39 +127,12 @@
 
 🚗 Car Rental Management System
 
-💳 Credit Card Fraud Detection
 
-🥗 Nutrition Analyzer
 
-🤖 Selenium Automation Framework
 
-🌐 Playwright Automation Suite
 
----
 
-# 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=221104daksh&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=221104daksh&layout=compact&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=221104daksh&theme=tokyonight)
-
----
-
-# 📊 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=221104daksh&theme=github-dark)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=221104daksh&theme=algolia&no-frame=true&margin-w=10)
 
 ---
 
