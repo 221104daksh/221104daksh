@@ -1,28 +1,172 @@
-# Hi 👋 I'm Daksh Sharma
+<h1 align="center">Hi 👋, I'm Daksh Sharma</h1>
+<h3 align="center">AI & ML Student | Python Developer | Data Analyst | Automation Testing Enthusiast</h3>
 
-🎓 B.Tech AI & ML Student
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Python+Developer;Data+Analyst;Selenium+%7C+Playwright+Automation;SQL+%7C+Power+BI+Enthusiast;Always+Learning+New+Technologies" />
+</p>
 
-💻 Python Developer | Data Analyst | ML Enthusiast
+---
 
-🌱 Currently Learning:
-- Machine Learning
+# 👨‍💻 About Me
+
+🎓 B.Tech Student specializing in Artificial Intelligence & Machine Learning
+
+💻 Passionate about Python, Data Analytics, Machine Learning, and Automation Testing.
+
+🚀 I enjoy building real-world AI applications, automation frameworks, and data-driven solutions.
+
+🌱 Currently learning
+
 - Deep Learning
-- Selenium
+- Selenium Automation
 - Playwright
-- Power BI
+- Jenkins CI/CD
+- Docker
+- REST APIs
+- Advanced SQL
 
-📫 Email:
-dakshsharmak2211@gmail.com
+📫 Reach me at
 
-## 💻 Tech Stack
+**your_email@gmail.com**
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+
+---
+
+### Data Science & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+---
+
+### Automation Testing
+
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright)
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest)
+
+---
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+
+---
+
+### Frameworks
+
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+
+---
+
+### Data Visualization
+
+![Power BI](https://img.shields.io/badge/Power_BI-yellow?style=for-the-badge&logo=powerbi)
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel)
+
+---
+
+### DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+---
+
+# 🚀 Featured Projects
+
+🩺 Diabetes Prediction System
+
+📊 Employee Churn Prediction
+
+🚗 Car Rental Management System
+
+💳 Credit Card Fraud Detection
+
+🥗 Nutrition Analyzer
+
+🤖 Selenium Automation Framework
+
+🌐 Playwright Automation Suite
+
+---
+
+# 📈 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=221104daksh&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=221104daksh&layout=compact&theme=tokyonight)
+
+---
+
+# 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=221104daksh&theme=tokyonight)
+
+---
+
+# 📊 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=221104daksh&theme=github-dark)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=221104daksh&theme=algolia&no-frame=true&margin-w=10)
+
+---
+
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=221104daksh&style=for-the-badge)
+
+---
+
+### ⭐ "Code. Learn. Build. Repeat." ⭐
