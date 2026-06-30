@@ -39,9 +39,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-dakshsharmak2211%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dakshsharmak2211@gmail.com)
 ---
 
-# 💻 Tech Stack
 
 # 💻 Tech Stack
+
 
 ### 👨‍💻 Programming Languages
 
