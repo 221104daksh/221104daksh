@@ -17,11 +17,11 @@
 
 🌱 Currently learning
 
+- Artificial Intelligence 
 - Deep Learning
 - Selenium Automation
 - Playwright
-- Jenkins CI/CD
-- Docker
+- RAG
 - REST APIs
 - Advanced SQL
 
