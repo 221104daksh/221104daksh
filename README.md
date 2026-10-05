@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daksh Sharma</h1>
-<h3 align="center">AI & ML Student | Python Developer | Data Analyst | Automation Testing Enthusiast</h3>
+<h3 align="center">AI & ML Student | Python Developer | System Engineer | AI Automation Enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Developer;Python+Developer;Data+Analyst;Selenium+%7C+Playwright+Automation;SQL+%7C+Power+BI+Enthusiast;Always+Learning+New+Technologies" />
